@@ -3,12 +3,12 @@ entries:
   javaapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-06T14:32:18.144253511Z"
+    created: "2025-04-06T15:20:31.363890243Z"
     description: A Helm chart for Kubernetes
-    digest: eeb46591426f37a524a2259369d09e166b32c0c7014fa8f14b2d753400485d4c
+    digest: 5583fe3a98fecafb9f680fda36c4c8a57383a9ffaeef31c9bff82b0196190e76
     name: javaapp
     type: application
     urls:
     - https://uptimecareer.github.io/helmrepo/javaapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-06T14:32:18.143762502Z"
+generated: "2025-04-06T15:20:31.36364107Z"
